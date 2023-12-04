@@ -1,6 +1,7 @@
 # Calculator
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="![Screenshot 2023-10-18 1429325](https://github.com/ayushlab4/Calculator/assets/80815483/c8a9ac63-91f5-4c98-8d26-ead124e22109)
+" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
