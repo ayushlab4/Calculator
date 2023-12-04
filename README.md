@@ -1,5 +1,4 @@
 # Calculator
-![Screenshot 2023-10-18 1429325](https://github.com/ayushlab4/Calculator/assets/80815483/c8a9ac63-91f5-4c98-8d26-ead124e22109)
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
@@ -77,7 +76,7 @@
 
 Are you considering supporting the project by donating to me? Please DO NOT!!!
 
-<img src="https://cfstatic.give.do/910ede2a-7892-43fe-8c8a-dea45e96d950.webp" alt="Picture of Coromandel Express train tragedy" width="35%">
+<img src="![https://github.com/ayushlab4/Calculator/assets/80815483/c8a9ac63-91f5-4c98-8d26-ead124e22109" alt="Picture of Coromandel Express train tragedy" width="35%">
 
 India has recently suffered one of the most devastating train accidents, and your help will be immensely valuable for the people who were affected by this tragedy.
 
